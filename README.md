@@ -23,5 +23,4 @@ This is a Java-based console application that provides functionality for encrypt
 - Java 24+
 - Standard Java libraries (no external dependencies)
 
-## Project Structure
 
