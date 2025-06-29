@@ -1,18 +1,41 @@
-# Java build files
-/out/
+# Compiled class files
 *.class
-*.jar
-*.log
-*.zip
 
-# IDE (IntelliJ)
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
 .idea/
 *.iml
+*.iws
+out/
 
-# Encrypted/decrypted files
-*.enc
-*.dec
+# VS Code (nếu bạn mở bằng VSCode)
+.vscode/
 
-# OS-specific
+# Mac OS
 .DS_Store
+
+# Windows
 Thumbs.db
+desktop.ini
+
+# Generated RSA keys or other secrets
+rsa_pub.key
+rsa_priv.key
+
+# Backup / temp files
+*.bak
+*.tmp
+*.swp
