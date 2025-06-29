@@ -1,0 +1,18 @@
+# Java build files
+/out/
+*.class
+*.jar
+*.log
+*.zip
+
+# IDE (IntelliJ)
+.idea/
+*.iml
+
+# Encrypted/decrypted files
+*.enc
+*.dec
+
+# OS-specific
+.DS_Store
+Thumbs.db
